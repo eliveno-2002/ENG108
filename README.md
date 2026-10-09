@@ -2,6 +2,8 @@
 
 CHANGES WE MADE TO ORIGINAL SCRIPTS BY https://github.com/doug-burrell/max30102
 
+We just modified heartrate_monitor.py, main.py,  but we need heartrate_monitor.py, hrcalc.py, main.py and max30102.py for it to work.
+
 heartrate_monitor.py
 
 Added self.spo2 = 0 to store the SpO2 value
